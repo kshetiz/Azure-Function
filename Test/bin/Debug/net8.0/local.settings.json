@@ -1,0 +1,17 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+
+
+    // "DefaultConnection": "Server=DESKTOP-7DE129J\\SQLEXPRESS;initial catalog=Azure;MultipleActiveResultSets=true;Connection Timeout=30;TrustServerCertificate=true"
+    "DefaultConnection": "Host=localhost;Port=5432;Database=Azure;Username=postgres;Password=Postgres@123;Pooling=true;"
+
+
+
+
+
+  }
+ 
+}
