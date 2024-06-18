@@ -17,8 +17,11 @@ var host = new HostBuilder()
 
     services.AddApplicationInsightsTelemetryWorkerService();
         services.ConfigureFunctionsApplicationInsights();
+    //services.AddDbContext<ApplicationDbContext>(options =>
+    //options.UseNpgsql("Host=localhost;Port=5432;Database=Azure;Username=postgres;Password=Postgres@123;Pooling=true;"));
+
     services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseNpgsql("Host=localhost;Port=5432;Database=Azure;Username=postgres;Password=Postgres@123;Pooling=true;"));
+   options.UseSqlServer("Server=DESKTOP-7DE129J\\SQLEXPRESS;initial catalog=Azure;MultipleActiveResultSets=true;Connection Timeout=30;TrustServerCertificate=true; Integrated Security=true;"));
 
 
     services.AddScoped<IToDoItemRepository, ToDoItemRepository>();

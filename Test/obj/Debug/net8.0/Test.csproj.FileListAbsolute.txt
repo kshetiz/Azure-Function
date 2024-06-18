@@ -172,3 +172,11 @@ C:\Codeology\FunctionAzure\Test\obj\Debug\net8.0\refint\Test.dll
 C:\Codeology\FunctionAzure\Test\obj\Debug\net8.0\Test.pdb
 C:\Codeology\FunctionAzure\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
 C:\Codeology\FunctionAzure\Test\obj\Debug\net8.0\ref\Test.dll
+C:\Codeology\FunctionAzure\Test\obj\Debug\net8.0\Test.sourcelink.json
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\.azurefunctions\function.deps.json
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.Functions.Worker.Extensions.dll
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.Functions.Worker.Extensions.pdb
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.WebJobs.Extensions.FunctionMetadataLoader.dll
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Codeology\FunctionAzure\Test\bin\Debug\net8.0\.azurefunctions\Microsoft.WindowsAzure.Storage.dll
