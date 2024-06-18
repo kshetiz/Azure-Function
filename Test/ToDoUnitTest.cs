@@ -33,7 +33,7 @@ namespace Test
         {
             // Arrange
             var function = new CreateToDo(_loggerMock.Object, _toDoServiceMock.Object);
-            var todoItem = new ToDoItem { Id = "1", Name = "Test ToDo", IsComplete = false };
+            var todoItem = new ToDoItem { Id = 1, Name = "Test ToDo", IsComplete = false };
             var requestBody = JsonSerializer.Serialize(todoItem);
             var bodyBytes = Encoding.UTF8.GetBytes(requestBody);
 

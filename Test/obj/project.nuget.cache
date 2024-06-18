@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WsFvlJXKUzaDW4j50l6f8WAWHCYGlPACZ5B12t+NN4BR7V9vEbhU6Id73iwtRljV53I86jcGaWQsDSkr+6Tn6Q==",
+  "dgSpecHash": "DwqbRzIrd0OHe0DsZU9DbR3nE0a1d/32QqSQMy41rdvxITvIZe8oD2bZudkgCnLDQWaWOTSFKw4AjYRUs/aYsw==",
   "success": true,
   "projectFilePath": "C:\\Codeology\\FunctionAzure\\Test\\Test.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.6\\microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
     "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.6\\microsoft.entityframeworkcore.relational.8.0.6.nupkg.sha512",
     "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.6\\microsoft.entityframeworkcore.sqlserver.8.0.6.nupkg.sha512",
     "C:\\Users\\dhaka\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",

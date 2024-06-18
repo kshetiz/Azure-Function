@@ -22,7 +22,6 @@ namespace FunctionAzure.Service.Implimentation
         {
             var entity = new ToDoItem
             {
-                Id = item.Id,
                 Name = item.Name,
                 IsComplete = item.IsComplete
             };
